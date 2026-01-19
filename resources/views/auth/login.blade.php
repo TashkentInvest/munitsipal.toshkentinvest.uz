@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="csrf-token" content="{{ csrf_token() }}">
-    <title>Кириш - Yer.toshkentinvest.uz</title>
+    <title>Кириш - Munitsipal.toshkentinvest.uz</title>
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-gradient-to-br from-blue-50 via-indigo-50 to-purple-50 min-h-screen flex items-center justify-center p-4">
@@ -13,7 +13,7 @@
         <div class="text-center mb-8">
             <div class="bg-white rounded-2xl shadow-2xl p-6 mb-6">
                 <h1 class="text-2xl md:text-3xl font-bold text-blue-900 mb-2">
-                    yer.toshkentinvest.uz
+                    munitsipal.toshkentinvest.uz
                 </h1>
                 <p class="text-base md:text-lg text-slate-600 font-semibold">
                     тизимидан фойдаланишга рухсат бериладиганлар рўйхати
